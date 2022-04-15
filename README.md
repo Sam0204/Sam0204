@@ -29,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niish03&show_icons=true&locale=en&layout=compact" alt="Sam0204" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam0204&show_icons=true&locale=en&layout=compact" alt="Sam0204" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niish03&show_icons=true&locale=en" alt="Sam0204" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam0204&show_icons=true&locale=en" alt="Sam0204" /></p>
